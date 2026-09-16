@@ -19,6 +19,7 @@ I am interested in understanding the mental models students use when deciding:
 * how students decide what is worth sacrificing
 * what they believe school is ultimately for
 * what students believe life after school looks like
+* Do something now because it creates future possibilities VERSUS Do something now because it is valuable now.
 
 The initial observations come from my own experience as a high-school student. These observations are useful for generating questions, but they are not treated as representative evidence.
 
